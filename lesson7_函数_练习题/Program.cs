@@ -47,6 +47,11 @@ namespace lesson7_函数_练习题
         //写一个函数，求一个数组的总合、最大值、最小值、平均值
         static void HanShu(int[] array)
         {
+            if (array.Length==0)
+            {
+                Console.WriteLine("数组不能为空");
+                return;
+            }
             int sum = 0;
             int max = array[0];
             int min = array[0];
