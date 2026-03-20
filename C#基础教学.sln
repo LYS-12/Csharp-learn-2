@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson11_递归函数_练�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson12_结构体", "lesson12_结构体\lesson12_结构体.csproj", "{32E85A7B-8B41-4D58-9907-A46B796FE180}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson12_结构体_练习题", "lesson12_结构体_练习题\lesson12_结构体_练习题.csproj", "{5E8E0A66-BC9A-413A-BFD5-BCAB16BDFA63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson13_冒泡排序", "lesson13_冒泡排序\lesson13_冒泡排序.csproj", "{4D38C5EA-EE9A-4A26-BFFD-64E3FB624BC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{32E85A7B-8B41-4D58-9907-A46B796FE180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32E85A7B-8B41-4D58-9907-A46B796FE180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32E85A7B-8B41-4D58-9907-A46B796FE180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E8E0A66-BC9A-413A-BFD5-BCAB16BDFA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8E0A66-BC9A-413A-BFD5-BCAB16BDFA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8E0A66-BC9A-413A-BFD5-BCAB16BDFA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8E0A66-BC9A-413A-BFD5-BCAB16BDFA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D38C5EA-EE9A-4A26-BFFD-64E3FB624BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D38C5EA-EE9A-4A26-BFFD-64E3FB624BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D38C5EA-EE9A-4A26-BFFD-64E3FB624BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D38C5EA-EE9A-4A26-BFFD-64E3FB624BC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
